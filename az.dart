@@ -1,4 +1,5 @@
 void main(List<String> args) {
-  var x=1;
-  print ("x= $x");
+  var y=100;
+  print ("y= $y");
+
 }
